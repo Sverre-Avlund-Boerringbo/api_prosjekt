@@ -8,3 +8,7 @@ Lag virtual environment og aktiver det:
 Installer python-biblioteker:
 
     pip install -r requirements.txt
+
+Kjør serveren:
+
+    flask --app server run --debug
